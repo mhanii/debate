@@ -2,7 +2,7 @@
 
 > Lado: **A FAVOR = SÍ sigue siendo competitiva sin IA.**
 > Postura razonable: la IA es útil, pero **no imprescindible**. Nunca digas "la IA no sirve".
-> Estado: tras ronda 3 (final) del bucle (ver `log.md`). Fuentes en `fuentes.md`.
+> Estado: tras ronda 4 (pase de afilado) (ver `log.md`). Fuentes en `fuentes.md`.
 
 ---
 
@@ -45,8 +45,9 @@
   - EN: "In 2023 the council took about 70 days to pay suppliers. In August 2026, under 24. Financial debt fell from €165M to €122M. 2025 closed with a €25.56M surplus."
   - Fuente: COPE, 28/09/2026 — https://www.cope.es/emisoras/andalucia/granada-provincia/granada/noticias/granada-logra-superavit-25-56-millones-pide-salir-plan-ajuste-20260928_3444606.html
 - **Por qué importa para la competitividad / Why it matters**
-  - ES: "Una ciudad que paga en 24 días atrae proveedores y empresas. Ninguna de esas mejoras vino de la IA."
-  - EN: "A city that pays in 24 days attracts suppliers and firms. None of that improvement came from AI."
+  - ES: "Una ciudad que paga en 24 días atrae proveedores y empresas. Para eso no hizo falta IA."
+  - ES: "Por primera vez cumple los cinco parámetros del plan de ajuste. Ha pedido salir de él."
+  - EN: "A city that pays in 24 days attracts suppliers and firms. That took no AI. For the first time it meets all five adjustment-plan parameters and has asked to leave it."
 - **Refutación esperada / Expected rebuttal**
   - ES: "Unas cuentas sanas no bastan. Hoy las empresas tecnológicas buscan ciudades con IA."
   - EN: "Healthy accounts are not enough. Tech firms now look for cities with AI."
@@ -54,6 +55,9 @@
   - ES: "Estoy de acuerdo: no basta. Pero es la base. Sin cuentas sanas no hay IA que valga."
   - ES: "Y fíjense: Granada mejoró su posición *antes* de tener su centro de IA abierto. La IA vendrá después, si conviene."
   - EN: "Agreed: it is not enough. But it is the foundation. Without healthy accounts no AI works. And note: Granada improved *before* its AI centre opened. AI can come later, if it pays off."
+- **Segunda refutación / Second rebuttal:** "Pagar en 30 días es lo que manda la ley; no es una ventaja."
+  - ES: "Granada pasó de incumplir la ley a cumplirla con margen. Eso es confianza, y la confianza atrae inversión."
+  - EN: "Granada went from breaking the law to complying with room to spare. That is trust, and trust attracts investment."
 
 ## Argumento 2 — Lo que vende Granada no se puede copiar con un algoritmo
 
@@ -63,6 +67,8 @@
 - **Razón / Reason**
   - ES: "La IA está al alcance de todas las ciudades. Por eso no diferencia. Lo que diferencia es lo que nadie más tiene."
   - EN: "AI is available to every city. That's why it doesn't differentiate. What differentiates is what nobody else has."
+  - ES: "Y en los próximos años la IA será aún más barata y común. Diferenciará todavía menos."
+  - EN: "And in the coming years AI will get even cheaper and more common. It will differentiate even less."
 - **Hecho Granada / Fact**
   - ES: "La Alhambra recibió 2.726.871 visitantes en 2025. Es el monumento más visitado de Andalucía."
   - ES: "Y tiene un tope anual de 2.765.500 personas, fijado para conservarla. Está casi al 99 % de su cupo."
@@ -81,48 +87,71 @@
   - EN: "AI can help spread visitors; I don't deny it. But the cap, the key decision, came from a human rule. And Granada reached the 2031 European Capital of Culture final for its culture, not an algorithm."
   - Fuente final 2031: El Mira, 13/03/2026 — https://www.elmira.es/articulo/granada/granada-entra-final-ser-capital-europea-cultura-2031/20260313163013552476.html
 
-## Argumento 3 — Granada ya ha demostrado que sigue compitiendo mientras su IA se retrasa
+## Argumento 3 — El gran examen de los próximos años, 2031, no pregunta por la IA
+
+> Nuevo en la ronda 4 (pase de afilado). Es el argumento que mira al **futuro**: responde a "la moción habla de los próximos años".
 
 - **Afirmación / Claim**
-  - ES: "Si la IA fuera imprescindible, Granada estaría perdiendo. Y no está perdiendo."
-  - EN: "If AI were indispensable, Granada would be losing. And it is not."
+  - ES: "Lo que Granada se juega en los próximos años no se gana con inteligencia artificial."
+  - EN: "What Granada is playing for in the coming years is not won with artificial intelligence."
 - **Razón / Reason**
-  - ES: "El gran proyecto de IA de la ciudad aún no funciona. Y aun así los indicadores de Granada mejoran."
-  - EN: "The city's flagship AI project is not running yet. Yet Granada's indicators improve."
+  - ES: "El gran objetivo de la ciudad es ser Capital Europea de la Cultura en 2031."
+  - ES: "La Unión Europea la decide con seis criterios. Ninguno habla de tecnología ni de IA."
+  - EN: "The city's big goal is to be European Capital of Culture in 2031. The EU decides it on six criteria. None mentions technology or AI."
 - **Hecho Granada / Fact**
-  - ES: "El centro de IA iQuantum se anunció para el primer semestre de 2025. La primera piedra se puso en enero de 2026."
-  - ES: "En septiembre de 2026 aún se anunciaba su financiación. No he encontrado que esté abierto."
-  - EN: "The iQuantum AI centre was announced for the first half of 2025. The first stone was laid in January 2026. In September 2026 its funding was still being announced. I found no evidence it is open."
-  - Fuentes: El Español, 03/09/2024 (plazo 1er semestre 2025) — https://www.elespanol.com/invertia/disruptores/autonomias/andalucia/20240903/granada-ia-despues-perder-batalla-acoger-agencia-estatal/882911981_0.html ; Ahora Granada, 29/01/2026 (primera piedra) — https://www.ahoragranada.com/noticias/granada-coloca-la-primera-piedra-de-su-centro-iquantum-un-laboratorio-de-ia-para-mejorar-servicios-publicos/ ; El Independiente de Granada, 15/09/2026 (2,62 M€, Red.es) — https://www.elindependientedegranada.es/economia/gobierno-impulsa-dos-proyectos-ciudades-inteligentes-granada-que-movilizara-416-millones
+  - ES: "Los criterios son: estrategia a largo plazo, dimensión europea, contenido cultural, capacidad, participación y gestión."
+  - ES: "Granada pasó a la final en marzo de 2026. Granada Smart se presentó en julio. Llegó a la final antes."
+  - EN: "The criteria are: long-term strategy, European dimension, cultural content, capacity to deliver, outreach and management. Granada reached the final in March 2026. Granada Smart was presented in July. It got there first."
+  - Fuentes: Decisión 445/2014/UE, art. 5 — https://www.legislation.gov.uk/eudn/2014/445/article/5 (texto oficial en EUR-Lex: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014D0445) ; El Mira 13/03/2026 — https://www.elmira.es/articulo/granada/granada-entra-final-ser-capital-europea-cultura-2031/20260313163013552476.html ; Ahora Granada 11/07/2026 — https://www.ahoragranada.com/noticias/granada-lanza-una-plataforma-con-ia-para-mejorar-la-competitividad-de-su-turismo/
 - **Por qué importa / Why it matters**
-  - ES: "En ese mismo tiempo, Granada saneó cuentas, batió visitas y llegó a la final cultural europea. Sin el centro de IA."
-  - EN: "In that same period Granada fixed its finances, set visitor records and reached the European culture final. Without the AI centre."
+  - ES: "La decisión llega en diciembre. Si Granada gana, será por su cultura y su proyecto. No por un algoritmo."
+  - EN: "The decision comes in December. If Granada wins, it will be for its culture and its project. Not an algorithm."
 - **Refutación esperada / Expected rebuttal**
-  - ES: "Un retraso no demuestra que la IA sobre. Demuestra que hay que acelerar."
-  - EN: "A delay doesn't prove AI is unnecessary. It proves we must speed up."
+  - ES: "El jurado puntúa la gestión y la capacidad. Gestionar un año de capitalidad exige IA."
+  - EN: "The jury scores management and capacity. Running a capital-of-culture year requires AI."
 - **Mi respuesta / My answer**
-  - ES: "Acelerar, de acuerdo. Pero la pregunta del debate es si Granada *sigue* siendo competitiva sin IA."
-  - ES: "Los hechos de estos dos años dicen que sí. Útil, sí. Imprescindible, no."
-  - EN: "Speed up, fine. But the motion asks whether Granada *stays* competitive without AI. The facts of these two years say yes. Useful, yes. Indispensable, no."
-  - **Cuidado:** no digas "iQuantum ha fracasado". Di "aún no está abierto, que yo sepa". Es más prudente y más creíble.
-  - **Cuidado (ronda 3):** Granada **sí** usa IA en el agua (Emasagra, −18 % de pérdidas, verificado). Nunca digas "Granada no usa IA". Di "sin su centro de IA" o "sin que la IA sea lo que decide". Si lo sacan, usa la refutación **A5**.
+  - ES: "La gestión ayuda, claro. Pero Granada ya gestiona más de 2,7 millones de visitas a la Alhambra con un cupo."
+  - ES: "La IA puede acompañar el proyecto. No es lo que el jurado va a puntuar."
+  - EN: "Management helps, of course. But Granada already handles over 2.7 million Alhambra visits with a cap. AI can support the bid. It is not what the jury scores."
+  - **Cuidado:** di "seis criterios, ninguno sobre tecnología". No digas "a la UE no le importa la IA".
 
 ---
 
 ## Reservas
 
-### Reserva 1 — Granada ya fue "smart" sin IA (definición + historia)
-- ES: "En 2017 Granada hizo accesible el Albaicín con escáner láser, modelos 3D y una app. Costó unos 600.000 euros. No usaba IA."
-- EN: "In 2017 Granada made the Albaicín accessible with laser scanning, 3D models and an app. About €600,000. No AI."
-- Fuente: esmartcity, 30/06/2017 — https://www.esmartcity.es/2017/06/30/hacer-albaicin-destino-accesible-inteligente-granada-human-smart-city
-- Uso: para responder "sin IA no hay smart city". Debilidad: es de 2017; úsalo solo como prueba de definición, no de futuro.
+### Reserva 1 — La prueba de estos dos años: Granada compite mientras su centro de IA se retrasa (antes Argumento 3)
+- ES: "Si la IA fuera imprescindible, Granada estaría perdiendo. Y no está perdiendo."
+- ES: "El centro iQuantum se anunció para 2025. La primera piedra fue en enero de 2026. Que yo sepa, la sede aún no está abierta."
+- ES: "Mientras tanto, la provincia batió récord: casi 4,9 millones de turistas en 2025."
+- EN: "If AI were indispensable, Granada would be losing. It isn't. iQuantum was announced for 2025; first stone in January 2026; as far as I know the building isn't open. Meanwhile the province set a record: almost 4.9 million tourists in 2025."
+- Fuentes: El Español 03/09/2024 — https://www.elespanol.com/invertia/disruptores/autonomias/andalucia/20240903/granada-ia-despues-perder-batalla-acoger-agencia-estatal/882911981_0.html ; Ahora Granada 29/01/2026 — https://www.ahoragranada.com/noticias/granada-coloca-la-primera-piedra-de-su-centro-iquantum-un-laboratorio-de-ia-para-mejorar-servicios-publicos/ ; Ahora Granada 09/02/2026 (4.870.250 turistas, provincia, datos Junta) — https://www.ahoragranada.com/noticias/granada-supero-los-cuatro-millones-de-turistas-en-2025/
+- **Cuidado:** Granada **sí** usa IA en el agua (Emasagra, −18 % de pérdidas). Nunca digas "Granada no usa IA". Di "sin su centro de IA". Si lo sacan, usa la refutación **A5**.
 
-### Reserva 2 — La contaminación se baja con decisiones, no con predicciones
-- ES: "Granada fue en 2025 la tercera capital con más dióxido de nitrógeno. Medirlo mejor no lo baja."
-- ES: "Lo baja limitar coches, como hace la Zona de Bajas Emisiones, que sanciona desde octubre de 2025."
-- EN: "In 2025 Granada was the third Spanish capital for NO2. Measuring it better doesn't lower it. Limiting cars does, like the Low Emission Zone, fining since October 2025."
-- Fuentes: Ahora Granada, 08/01/2026 — https://www.ahoragranada.com/noticias/granada-repite-como-la-tercera-capital-mas-contaminada-de-espana-por-dioxido-de-nitrogeno/ ; Syrsa, 14/08/2026 (ZBE) — https://www.syrsa.com/noticias/zbe-de-granada-que-coches-pueden-circular
-- **Riesgo:** te dirán que las cámaras de matrícula usan IA. Respuesta: "Quizá leer la matrícula use un modelo. Pero la decisión, quién entra, es una regla humana."
+### Reserva 2 — Granada ya gestiona la presión turística con reglas, no con algoritmos
+- ES: "La Alhambra tiene un cupo anual. Y desde 2025 Granada limita los pisos turísticos al 10 % por zona."
+- ES: "En Albaicín, Realejo, Centro y Fígares ya no se dan licencias nuevas. Son decisiones humanas, y funcionan."
+- EN: "The Alhambra has an annual cap. Since 2025 Granada limits tourist flats to 10% per area. Albaicín, Realejo, Centro and Fígares get no new licences. Human decisions, and they work."
+- Fuentes: albayzin.info 19/05/2025 (aprobación) — https://albayzin.info/2025/05/19/prensa-la-limitacion-al-10-de-las-viviendas-de-uso-turistico-en-granada-llega-a-aprobacion-definitiva/ ; Infobae/EFE 15/01/2025 — https://www.infobae.com/espana/agencias/2025/01/15/granada-limitara-las-viviendas-turisticas-en-cuatro-barrios-y-no-dara-licencias-a-bajos/
+- Uso: contra "repartir turistas exige IA". No cites los porcentajes de cada barrio (las fuentes no coinciden).
+
+*Munición de definiciones (si dicen "sin IA no hay smart city"):* "En 2017 Granada hizo accesible el Albaicín con escáner láser, modelos 3D y una app. Sin IA." (esmartcity, 30/06/2017 — https://www.esmartcity.es/2017/06/30/hacer-albaicin-destino-accesible-inteligente-granada-human-smart-city)
+
+---
+
+## Marco del debate: ¿quién tiene que probar qué? (decirlo en la primera réplica)
+
+- ES: "La moción pregunta si Granada *seguirá siendo* competitiva. No si será la primera en todo."
+- ES: "Nosotros no decimos que la IA no ayude. Decimos que, sin ella, Granada sigue en la carrera."
+- EN: "The motion asks whether Granada *will remain* competitive. Not whether it will be first at everything. We don't say AI doesn't help. We say that without it Granada is still in the race."
+- **Si dicen "competir es relativo: si los rivales usan IA, Granada compite peor":**
+  - ES: "Competir peor en un servicio no es dejar de ser competitiva. Granada atrae turistas, talento y es finalista europea."
+  - EN: "Competing worse on one service isn't ceasing to be competitive. Granada attracts tourists and talent and is a European finalist."
+
+## Pregunta para el otro equipo (pensamiento crítico)
+
+- ES: "¿Qué indicador de Granada ha empeorado estos años por no tener IA? Uno solo."
+- EN: "Which Granada indicator has got worse in recent years for lack of AI? Just one."
+- Si responden "la estancia media": usa la refutación **A6** (la causa son los precios).
 
 ---
 
@@ -139,10 +168,10 @@
 "Buenas tardes. Granada tiene la Alhambra, una universidad potente y unas cuentas por fin sanas.
 La pregunta no es si la IA es útil. Lo es.
 La pregunta es si sin ella Granada deja de competir.
-Vamos a demostrar que no. Por tres razones: la gestión, lo que nadie puede copiar y lo que ya ha pasado estos dos años."
+Vamos a demostrar que no. Por tres razones: la gestión, lo que nadie puede copiar y lo que Granada se juega en 2031."
 
 **EN:**
-"Good afternoon. Granada has the Alhambra, a strong university and finally healthy finances. The question is not whether AI is useful. It is. The question is whether without it Granada stops competing. We will show it doesn't, for three reasons: management, what no one can copy, and what has already happened these two years."
+"Good afternoon. Granada has the Alhambra, a strong university and finally healthy finances. The question is not whether AI is useful. It is. The question is whether without it Granada stops competing. We will show it doesn't, for three reasons: management, what no one can copy, and what Granada is playing for in 2031."
 
 ## Cierre (≈30 s)
 
@@ -151,7 +180,8 @@ Vamos a demostrar que no. Por tres razones: la gestión, lo que nadie puede copi
 Pero Granada pagaba en 70 días y ahora paga en 24. Sin IA.
 La Alhambra está al 99 % de su cupo. Sin IA.
 Granada es finalista europea de la cultura. Sin IA.
+Y en diciembre el jurado no puntuará algoritmos. Puntuará cultura.
 La IA puede ayudar. Pero lo que hace competitiva a Granada ya está aquí. Gracias."
 
 **EN:**
-"We heard good ideas about AI, and we share them. But Granada went from paying in 70 days to 24. Without AI. The Alhambra is at 99% of its cap. Without AI. Granada is a European culture finalist. Without AI. AI can help. But what makes Granada competitive is already here. Thank you."
+"We heard good ideas about AI, and we share them. But Granada went from paying in 70 days to 24. Without AI. The Alhambra is at 99% of its cap. Without AI. Granada is a European culture finalist. Without AI. And in December the jury won't score algorithms. It will score culture. AI can help. But what makes Granada competitive is already here. Thank you."

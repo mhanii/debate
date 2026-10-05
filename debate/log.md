@@ -91,6 +91,64 @@ Miembros del top 3 cambiaron (C2 → C2b fusionado). Con la regla estricta, har�
 
 ---
 
+## Ronda 4 — Pase de afilado y equilibrio (05/10/2026, a petición del usuario)
+
+**Objetivo:** atacar los dos casos, reforzar el más débil sin debilitar el otro y dejarlos equilibrados.
+
+### Diagnóstico (red team)
+- **A favor:** los tres argumentos miraban al **pasado** (cuentas, Alhambra, iQuantum). La moción dice "en los próximos años". En contra podía ganar con "pasado ≠ futuro". Además, el 99 % de la Alhambra es un arma de doble filo: alimenta el Argumento 1 de En contra.
+- **En contra:** aceptaba el marco del rival ("útil ≠ imprescindible") sin discutirlo. No nombraba a ningún rival real que use IA. Y la respuesta "la UGR llegó a nº 1 sin IA municipal" quedaba sin contestar.
+
+### Cambios A favor
+| ID | Cambio | G | E | R | J | D | Tot |
+|---|---|---|---|---|---|---|---|
+| F3 Gestión | + "5/5 parámetros, pide salir del plan de ajuste"; "no hizo falta IA" (antes "ninguna mejora vino de la IA", que no se puede probar); 2ª refutación "30 días = ley" → "de incumplir a cumplir = confianza" | 5 | 5 | 4 | 5 | 4 | 23 |
+| F2b No se copia | + lógica de futuro: "la IA se abarata → diferencia menos" | 5 | 5 | 3 | 4 | 4 | 21 (R baja: el 99 % ayuda también al rival) |
+| **F12 2031 (nuevo)** | Seis criterios de la Decisión 445/2014/UE, ninguno tecnológico; final en marzo, antes de Granada Smart (julio) | 5 | 5 | 4 | 5 | 4 | **23** |
+| F4b iQuantum | → Reserva 1, con récord provincial de 4,87 M turistas | 5 | 4 | 4 | 4 | 4 | 21 |
+| Reserva 2 nueva | Pisos turísticos ≤ 10 %: el turismo se gestiona con reglas | 5 | 4 | 3 | 4 | 4 | 20 |
+| Marco | "*Seguirá* siendo competitiva ≠ ser la primera en todo" + pregunta trampa "¿qué indicador ha empeorado?" | — | — | — | — | — | — |
+
+**Top 3 A favor:** F3 (23), F12 (23), F2b (21) = **67**.
+
+### Cambios En contra
+| ID | Cambio | G | E | R | J | D | Tot |
+|---|---|---|---|---|---|---|---|
+| C1b Alhambra llena | + estancia media en la provincia 1,94 noches (1T 2026, INE): "vienen más, se quedan menos"; 2ª refutación contra "es por los precios" | 5 | 5 | 4 | 5 | 4 | **23** |
+| C5c Talento | + "la universidad ya hizo su parte; ahora le toca a la ciudad" | 5 | 5 | 4 | 4 | 4 | **22** |
+| C4b Agua | + rival concreto: EMASESA (Sevilla) ya usa gemelo digital con IA; respuesta directa a "útil ≠ imprescindible" | 5 | 5 | 4 | 4 | 4 | 22 |
+| Reserva 1 | + giro contra 2031: "puntúan capacidad y gestión" | 5 | 4 | 3 | 4 | 4 | 20 |
+| Marco | "'Imprescindible' lo dicen ellos; competir es compararse" + pregunta trampa "¿renunciarían al 18 %?" | — | — | — | — | — | — |
+
+**Top 3 En contra:** C1b (23), C5c (22), C4b (22) = **67**.
+
+### Equilibrio
+- **Empate en puntos (67–67).** Cada lado tiene ahora un argumento de futuro (A favor: 2031; En contra: estancias más cortas y Alhambra llena), un marco sobre la carga de la prueba y una pregunta trampa.
+- Ningún argumento fuerte se quitó a ningún lado. Cada dato nuevo de un lado tiene respuesta preparada en el otro:
+  - 2031 → B2.
+  - Estancias más cortas → A6.
+  - Sevilla → A3.
+  - "La moción no dice imprescindible" → A1.
+- Ventaja residual de cada lado:
+  - **A favor:** "útil ≠ imprescindible" funciona solo con lógica.
+  - **En contra:** tiene el único *resultado medido* de la IA en Granada (−18 % de agua).
+
+### Apéndice (ronda 4)
+- **Parte A:**
+  - A1 se refuerza con el ataque de marco ("la moción no dice imprescindible").
+  - A3 pasa a "Sevilla usa IA".
+  - Nuevo **A6** "se quedan menos de dos noches".
+  - Sale "sin IA los datos de los sensores no sirven": débil y respondido por el marco.
+- **Parte B:**
+  - Nuevo **B2** "2031 no puntúa IA" (IMPRESCINDIBLE).
+  - "iQuantum tarde" pasa a B5.
+  - "Privacidad" pasa a B6.
+  - Sale "AI Act: riesgos y costes": baja probabilidad y fechas inestables.
+- **Descartado por estar ya respondido en el top 3:** "las estancias bajan por los precios" contra En contra (lo responde C1b directamente).
+- Siguen siendo 15 por lado. Siguen dos de definiciones y dos populistas por lado.
+
+---
+
 ## Apéndice — 25 ataques generados por lado y descartes
 
 ### Contra A FAVOR (los lanza En contra) — 25 generados, 15 conservados
@@ -167,3 +225,4 @@ Conservados: 1,2,3,4,5,6,7,8,9,11,12,14,17,22,25 = **15**.
 ## Ejecuciones
 - **05/10/2026 ~16:00 (UTC del contenedor):** rondas 1 y 2 para ambos lados; apéndice; cruce. Ronda 3 pendiente para En contra.
 - **05/10/2026 (cron, ronda 3):** Emasagra verificado; C4b entra en el top 3 de En contra y C2b pasa a reserva; A5 nuevo en el apéndice. **Bucle finalizado.**
+- **05/10/2026 (ronda 4, a petición):** pase de afilado y equilibrio. A favor gana un argumento de futuro (2031); En contra gana el marco "imprescindible lo dicen ellos", las estancias < 2 noches y un rival (Sevilla). Empate 67–67.
