@@ -2,7 +2,7 @@
 
 > Lado: **A FAVOR = SÍ sigue siendo competitiva sin IA.**
 > Postura razonable: la IA es útil, pero **no imprescindible**. Nunca digas "la IA no sirve".
-> Estado: tras ronda 2 del bucle (ver `log.md`). Fuentes en `fuentes.md`.
+> Estado: tras ronda 3 (final) del bucle (ver `log.md`). Fuentes en `fuentes.md`.
 
 ---
 
@@ -105,6 +105,7 @@
   - ES: "Los hechos de estos dos años dicen que sí. Útil, sí. Imprescindible, no."
   - EN: "Speed up, fine. But the motion asks whether Granada *stays* competitive without AI. The facts of these two years say yes. Useful, yes. Indispensable, no."
   - **Cuidado:** no digas "iQuantum ha fracasado". Di "aún no está abierto, que yo sepa". Es más prudente y más creíble.
+  - **Cuidado (ronda 3):** Granada **sí** usa IA en el agua (Emasagra, −18 % de pérdidas, verificado). Nunca digas "Granada no usa IA". Di "sin su centro de IA" o "sin que la IA sea lo que decide". Si lo sacan, usa la refutación **A5**.
 
 ---
 

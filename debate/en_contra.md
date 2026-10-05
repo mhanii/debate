@@ -2,7 +2,7 @@
 
 > Lado: **EN CONTRA = NO sigue siendo competitiva sin IA.**
 > Postura razonable: la IA **no es magia**; necesita datos, infraestructura y garantías primero. Pero renunciar a ella deja a Granada atrás.
-> Estado: tras ronda 2 del bucle (ver `log.md`). Fuentes en `fuentes.md`.
+> Estado: tras ronda 3 (final) del bucle (ver `log.md`). Fuentes en `fuentes.md`.
 
 ---
 
@@ -80,47 +80,54 @@
   - EN: "It exists, yes. But it doesn't stay on its own. iQuantum has already drawn firms like Nvidia, Orange and Endesa. They come because the city wants to use AI. Without that demand, fewer come."
   - Fuente: Ahora Granada 29/01/2026 (T-Systems, Orange, Endesa, Nvidia) — https://www.ahoragranada.com/noticias/granada-coloca-la-primera-piedra-de-su-centro-iquantum-un-laboratorio-de-ia-para-mejorar-servicios-publicos/
 
-## Argumento 3 — Competir es una carrera, y el dinero y las oportunidades ya van a la IA
+## Argumento 3 — La IA ya da resultados medibles en Granada: el agua
+
+> Nuevo en la ronda 3 (antes era Reserva 2). El dato del 18 % ya está verificado.
 
 - **Afirmación / Claim**
-  - ES: "Competir es relativo. Si las demás ciudades usan IA y Granada no, Granada pierde aunque no empeore."
-  - EN: "Competing is relative. If other cities use AI and Granada doesn't, Granada loses even without getting worse."
+  - ES: "La IA en Granada no es una promesa. Ya ha ahorrado agua, y eso se puede medir."
+  - EN: "AI in Granada is not a promise. It has already saved water, and that can be measured."
 - **Razón / Reason**
-  - ES: "Los fondos públicos y las sedes se reparten hoy con criterios de innovación. Sin IA, Granada no entra en esa carrera."
-  - EN: "Public funds and headquarters are now allocated on innovation criteria. Without AI, Granada isn't in the race."
+  - ES: "Una ciudad compite también en eficiencia. La propia UIT lo pone en la definición de smart city."
+  - EN: "A city also competes on efficiency. The ITU puts it in its very definition of a smart city."
 - **Hecho Granada / Fact**
-  - ES: "Solo tres proyectos con IA movilizan unos 6 millones. iQuantum, Granada Smart y 5G CityBrain."
-  - ES: "Y Granada ya perdió una carrera: en 2022 la Agencia Española de Supervisión de la IA fue para A Coruña."
-  - EN: "Just three AI projects brought about €6M: €2.62M iQuantum, almost €2M Granada Smart, over €1.3M 5G CityBrain. And Granada already lost one race: in 2022 Spain's AI supervision agency went to A Coruña."
-  - Fuentes: El Independiente de Granada 15/09/2026 (iQuantum 2,62 M€, 85 % Red.es); Granada es Noticia 06/07/2025 (1.989.854 €); Extra Jaén 21/11/2024 (5G CityBrain >1,3 M€) — https://extrajaen.com/actualidad/innovasur-revoluciona-la-gestion-urbana-en-tiempo-real-con-5g-citybrain ; El Independiente de Granada 18/12/2023 (AESIA, Supremo) — https://www.elindependientedegranada.es/economia/tribunal-supremo-desestima-recurso-ayuntamiento-granada-eleccion-coruna-como-sede-aesia
-  - Suma propia: 2,62 + 1,99 + 1,3 ≈ 5,9 M€ (presupuestos totales; no todo es subvención externa — di "unos 6 millones movilizados", no "recibidos").
+  - ES: "Emasagra, la empresa municipal del agua, redujo las pérdidas de la red en más de un 18 %."
+  - ES: "Ahorró 1,8 hectómetros cúbicos con gemelos digitales, inteligencia artificial y sensores. Ganó el Premio Retina 2026."
+  - EN: "Emasagra, the municipal water company, cut network losses by over 18%. It saved 1.8 hm³ using digital twins, AI and sensors. It won the 2026 Retina Award."
+  - Fuente: Ahora Granada 18/09/2026 — https://www.ahoragranada.com/noticias/emasagra-premio-retina-2026-por-su-modelo-de-innovacion-sostenibilidad-y-descarbonizacion-del-agua/
+  - Extra: ecofactoría de 7 M€ con gemelo digital e IA (COPE 22/07/2026) — https://www.cope.es/emisoras/andalucia/granada-provincia/granada/noticias/granada-transforma-ciclo-agua-ecofactoria-inteligente-inversion-7-millones-20260722_3408835.html
 - **Por qué importa / Why it matters**
-  - ES: "Granada compite en diciembre por la Capitalidad Cultural 2031 contra Cáceres, Las Palmas y Oviedo. Y vincula Granada Smart a esa candidatura."
-  - EN: "In December Granada competes for 2031 Capital of Culture against Cáceres, Las Palmas and Oviedo, and links Granada Smart to that bid."
+  - ES: "Con sequías cada vez más frecuentes, el agua es un recurso estratégico. Perder menos agua es competir mejor."
+  - EN: "With droughts more frequent, water is strategic. Losing less water is competing better."
+  - *Sin dato de sequía en Granada: dilo como lógica general, sin cifras.*
 - **Refutación esperada / Expected rebuttal**
-  - ES: "Granada perdió la agencia de IA y no se hundió. Sigue siendo finalista cultural."
-  - EN: "Granada lost the AI agency and didn't sink. It's still a culture finalist."
+  - ES: "Eso es eficiencia del agua. La ciudad no compite por sus tuberías."
+  - EN: "That's water efficiency. A city doesn't compete on its pipes."
 - **Mi respuesta / My answer**
-  - ES: "No se hundió, cierto. Pero esa sede, con sus empleos, hoy está en A Coruña y no aquí."
-  - ES: "La lección no es 'da igual'. La lección es que la siguiente oportunidad no se puede perder."
-  - EN: "It didn't sink, true. But that agency, with its jobs, is now in A Coruña, not here. The lesson isn't 'it doesn't matter'. The lesson is not to lose the next one."
+  - ES: "Las empresas y los vecinos sí eligen ciudades con servicios fiables y baratos."
+  - ES: "Y es la prueba de que la IA ya funciona aquí. Quitarla sería volver a perder ese agua."
+  - EN: "Firms and residents do choose cities with reliable, cheap services. And it proves AI already works here. Removing it means losing that water again."
+- **Segunda refutación / Second rebuttal:** "Nadie propone quitarla." → ES: "Perfecto. Entonces aceptan que, sin ella, Granada sería menos eficiente. Eso es lo que defendemos." / EN: "Great. Then you accept that without it Granada would be less efficient. That's our point."
 
 ---
 
 ## Reservas
 
-### Reserva 1 — Aire: Granada mide mucho y predice poco
+### Reserva 1 — Competir es una carrera: fondos y sedes van a la IA (antes Argumento 3)
+- ES: "Competir es relativo. Tres proyectos con IA movilizan unos 6 millones: iQuantum, Granada Smart y 5G CityBrain."
+- ES: "Y Granada ya perdió una carrera: en 2022 la agencia española de IA fue para A Coruña."
+- EN: "Competing is relative. Three AI projects mobilise about €6M: iQuantum, Granada Smart, 5G CityBrain. And Granada already lost one race: in 2022 Spain's AI agency went to A Coruña."
+- Fuentes: El Independiente de Granada 15/09/2026 (iQuantum 2,62 M€) — https://www.elindependientedegranada.es/economia/gobierno-impulsa-dos-proyectos-ciudades-inteligentes-granada-que-movilizara-416-millones ; Granada es Noticia 06/07/2025 (1.989.854 €); Extra Jaén 21/11/2024 (>1,3 M€) — https://extrajaen.com/actualidad/innovasur-revoluciona-la-gestion-urbana-en-tiempo-real-con-5g-citybrain ; El Independiente de Granada 18/12/2023 (AESIA) — https://www.elindependientedegranada.es/economia/tribunal-supremo-desestima-recurso-ayuntamiento-granada-eleccion-coruna-como-sede-aesia
+- Di "movilizados", no "recibidos" (son presupuestos totales).
+- **Por qué bajó en la ronda 3:** el ataque "6 millones es poco frente a 25,56 de superávit" le hace daño. Respuesta si sale: ES: "No es cuánto dinero trae hoy. Es qué puertas abre: fondos, empresas y talento." / EN: "It's not how much money it brings today. It's which doors it opens: funds, firms and talent."
+- Si dicen "perder AESIA no hundió a Granada": ES: "Cierto. Pero esa sede, con sus empleos, hoy está en A Coruña. La lección es no perder la siguiente." / EN: "True. But that agency and its jobs are in A Coruña now. The lesson is not to lose the next one."
+
+### Reserva 2 — Aire: Granada mide mucho y predice poco
 - ES: "Granada fue en 2025 la tercera capital con más dióxido de nitrógeno. Ya supera el límite europeo que llegará en 2030."
 - ES: "5G CityBrain mide en la calle Méndez Núñez las emisiones de cada coche. Con IA se puede anticipar el pico, no solo contarlo."
 - EN: "In 2025 Granada was the 3rd Spanish capital for NO2, already above the EU limit coming in 2030. 5G CityBrain measures each car's emissions on calle Méndez Núñez. With AI you can anticipate the peak, not just count it."
 - Fuentes: Ahora Granada 08/01/2026; El Independiente de Granada (límite UE 2030) — https://www.elindependientedegranada.es/ciudadania/granada-tercera-ciudad-espanola-con-mas-contaminacion-no2-2025-madrid-malaga ; Extra Jaén 21/11/2024.
 - Estado CityBrain: **no confirmado**. Última noticia que abrí es de nov. 2024; la web de Innovasur habla de "demostraciones" sin fecha. No digas que "está funcionando hoy".
-
-### Reserva 2 — El agua ya usa IA en Granada: quitarla sería retroceder
-- ES: "Emasagra, la empresa del agua, invierte 7 millones en una ecofactoría con gemelo digital e IA para predecir energía."
-- EN: "Emasagra, the water company, is investing €7M in an eco-factory with a digital twin and AI to forecast energy."
-- Fuente: COPE 22/07/2026 — https://www.cope.es/emisoras/andalucia/granada-provincia/granada/noticias/granada-transforma-ciclo-agua-ecofactoria-inteligente-inversion-7-millones-20260722_3408835.html
-- **SIN VERIFICAR:** "reducción de pérdidas de agua de más del 18 % gracias a IA" — solo aparece en un resumen de búsqueda; la página de origen (Teleprensa, premio Retina 2026) me devolvió error. No lo uses salvo que lo compruebes.
 
 ---
 
@@ -137,12 +144,12 @@
 
 **ES:**
 "Buenas tardes. Granada es preciosa, pero la belleza no basta para competir.
-La Alhambra ya está casi llena. Nuestra universidad es la primera de España en IA. Y otras ciudades no se paran.
+La Alhambra ya está casi llena. Nuestra universidad es la primera de España en IA. Y la IA ya ahorra agua aquí.
 No decimos que la IA sea magia. Decimos que, sin ella, Granada se queda quieta mientras otros avanzan.
 Y en una carrera, quedarse quieto es perder."
 
 **EN:**
-"Good afternoon. Granada is beautiful, but beauty is not enough to compete. The Alhambra is almost full. Our university is Spain's number one in AI. Other cities aren't stopping. We don't say AI is magic. We say without it Granada stands still while others move. And in a race, standing still is losing."
+"Good afternoon. Granada is beautiful, but beauty is not enough to compete. The Alhambra is almost full. Our university is Spain's number one in AI. And AI already saves water here. We don't say AI is magic. We say without it Granada stands still while others move. And in a race, standing still is losing."
 
 ## Cierre (≈30 s)
 
@@ -150,7 +157,8 @@ Y en una carrera, quedarse quieto es perder."
 "La otra parte dice que Granada compite por su historia. Es verdad, y nos encanta.
 Pero la historia no crece. La Alhambra ya está al 99 %.
 El propio Ayuntamiento eligió IA para su turismo y para 2031.
+Y la IA ya ha reducido las pérdidas de agua en más de un 18 %.
 La IA no sustituye a Granada. La ayuda a seguir en la carrera. Gracias."
 
 **EN:**
-"The other side says Granada competes on its history. True, and we love it. But history doesn't grow; the Alhambra is at 99%. The council itself chose AI for its tourism and for 2031. AI doesn't replace Granada. It helps it stay in the race. Thank you."
+"The other side says Granada competes on its history. True, and we love it. But history doesn't grow; the Alhambra is at 99%. The council itself chose AI for its tourism and for 2031. And AI has already cut water losses by over 18%. AI doesn't replace Granada. It helps it stay in the race. Thank you."

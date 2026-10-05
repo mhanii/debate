@@ -62,11 +62,32 @@ F1 se queda fuera por solo 1 punto, pero su R=2 lo hace frágil.
 - **C5 reforzado → C5b:** respuesta a "el talento existe igual" con patrocinadores de iQuantum (Nvidia, Orange, Endesa). R 3→4. **Total 22.**
 - **C1** sin cambios salvo respuesta más corta. **22.**
 - **C3** → Reserva 1, con aviso de estado no confirmado de CityBrain.
-- **C4** → Reserva 2; cifra del 18 % marcada **SIN VERIFICAR**.
+- **C4** → Reserva 2; cifra del 18 % marcada **SIN VERIFICAR** en ronda 2 (verificada en ronda 3, ver abajo).
 - Nuevo **C11** "Ya hemos saneado lo básico: el superávit es el momento de invertir" — G5 E5 R4 J4 D4 = 22, pero es reactivo: se usa como refutación B4 (responde al mejor argumento de A favor).
 
 **Top 3 R2:** C1 (22), C5b (22), C2b (22). **Reservas:** C3, C4.
 Miembros del top 3 cambiaron (C2 → C2b fusionado). Con la regla estricta, haría falta una ronda 3. El cron programado la ejecutará atacando C2b.
+
+---
+
+### Ronda 3 — 05/10/2026 (ejecución del cron)
+- **Re-verificación:** el dato de Emasagra "−18 % pérdidas, 1,8 hm³ con gemelos digitales e IA" queda **verificado** (Ahora Granada 18/09/2026). Ya no queda ningún dato SIN VERIFICAR.
+- **Ataques al top 3:**
+  - C1 (Alhambra llena) — ataque "se reparte con normas": la respuesta aguanta. Sin cambios. **22.**
+  - C5b (talento) — ataque "la UGR llegó a nº 1 sin IA municipal": la respuesta con patrocinadores de iQuantum aguanta, aunque iQuantum no tiene sede abierta. R 4→3. **21.**
+  - C2b (carrera + 6 M€ + AESIA) — ataque nuevo "6 M€ es poco frente a 25,56 M€ de superávit": hace daño, porque el dinero de la IA queda pequeño. R 4→3. **21.**
+- **Reescritura C4 → C4b "La IA ya da resultados medibles en Granada: el agua":** G5 E5 R4 J5 D4 = **23**. Es el único argumento de En contra con un *resultado* de IA en Granada, no una promesa. Responde además al mejor golpe contrario ("su IA son titulares"). Si dicen "nadie propone quitarla", la respuesta es "entonces aceptan que sin ella sería menos eficiente".
+- **Top 3 final En contra:** C4b (23), C1 (22), C5b (21). En el documento, el orden es C1, C5b, C4b: es mejor abrir con turismo. **Reservas:** C2b (21) y C3 aire (19).
+
+### Ronda 3 — A favor (comprobación de estabilidad)
+- Ataque nuevo derivado de C4b: "Granada sí usa IA y le funciona". Afecta al Argumento 3 (F4b) solo si se dice "Granada no usa IA". Se añade un aviso en a_favor.md y la refutación **A5** nueva (útil ≠ imprescindible; el agua no decide dónde van turistas y empresas). F4b R 4→4. Sin cambios en el top 3.
+- **Top 3 final A favor:** F3 (23), F2b (22), F4b (21). Estable desde la ronda 2.
+
+### Cambios en el apéndice (ronda 3)
+- A favor: el nuevo ataque **"La IA ya ahorra agua: −18 %"** pasa a **A5 IMPRESCINDIBLE** (probabilidad 5, dificultad 4). "Cualquier software es IA" baja a **A13 POR SI ACASO**. Siguen siendo 15. El antiguo A13 ("Emasagra ya usa IA; quitarla es retroceder") se fusiona con el nuevo A5.
+- Comprobación cruzada: C4b → respondido por A5. La Reserva 1 de En contra (6 M€) → respondida en la Parte C.
+
+**Bucle terminado:** 3 rondas completas en ambos lados, cruce hecho, sin datos SIN VERIFICAR.
 
 ---
 
@@ -144,4 +165,5 @@ Conservados: 1,2,3,4,5,6,7,8,9,11,12,14,17,22,25 = **15**.
 - Resto cubierto (ver tabla Parte C del apéndice).
 
 ## Ejecuciones
-- **05/10/2026 ~16:00 (UTC del contenedor):** rondas 1 y 2 para ambos lados; apéndice; cruce. Ronda 3 pendiente para En contra (top 3 cambió por fusión C2b) → la hará el cron `*/10`.
+- **05/10/2026 ~16:00 (UTC del contenedor):** rondas 1 y 2 para ambos lados; apéndice; cruce. Ronda 3 pendiente para En contra.
+- **05/10/2026 (cron, ronda 3):** Emasagra verificado; C4b entra en el top 3 de En contra y C2b pasa a reserva; A5 nuevo en el apéndice. **Bucle finalizado.**

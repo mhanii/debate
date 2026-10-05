@@ -10,6 +10,7 @@ Smart city (UIT Y.4900) = TIC **"y otros medios"** → vida, servicios, competit
 ## A FAVOR — "Útil, sí. Imprescindible, no."
 
 **Concesión:** IA útil · Granada hace bien en probarla · no imprescindible.
+**Definiciones (si sale):** UE excluye reglas humanas y estadística → "todo software es IA" es falso.
 
 **1. GESTIÓN** — pago proveedores **70 → 24 días** (ago 2026) · deuda **165 → 122 M€** · superávit 2025 **25,56 M€** · sin IA. *(COPE 28/09/26)*
 **2. NO SE COPIA** — Alhambra **2.726.871** (2025) · tope **2.765.500** · **99 %** · cupo = norma humana · finalista **Capital Cultura 2031**. *(Ahora Granada 14/01/26; El Mira 13/03/26)*
@@ -22,7 +23,7 @@ Smart city (UIT Y.4900) = TIC **"y otros medios"** → vida, servicios, competit
 2. "Plan IA del Ayuntamiento" → apostar ≠ depender · ciudad competía antes (plan 2024).
 3. "Los demás usan IA" → IA se compra · Alhambra no.
 4. "UGR nº1 IA, talento se va" → talento llegó sin IA municipal.
-5. "Todo software es IA" → UE excluye reglas y estadística.
+5. "IA ahorra 18 % de agua" → buena noticia · útil ≠ imprescindible · el agua no decide dónde van turistas.
 
 **Cierre:** 70→24 días. 99 %. Finalista. **Sin IA.**
 
@@ -34,9 +35,9 @@ Smart city (UIT Y.4900) = TIC **"y otros medios"** → vida, servicios, competit
 
 **1. ALHAMBRA LLENA** — **99 %** del tope → crecer = **repartir** → predecir = IA · **Granada Smart** jul 2026 · **1.989.854 €** · objetivo "competitividad turística". *(Ahora Granada 11/07/26)*
 **2. TALENTO** — UGR **nº1 España en IA** (Shanghái 2026, **51-75** mundo) · mayor crecimiento **empleo TIC** (COTEC) · iQuantum atrae **Nvidia, Orange, Endesa**.
-**3. CARRERA** — competir = relativo · ~**6 M€** movilizados (iQuantum **2,62** · Granada Smart **1,99** · CityBrain **>1,3**) · **AESIA → A Coruña** (dic 2022) · final 2031 **dic 2026** vs Cáceres, Las Palmas, Oviedo.
+**3. AGUA** — Emasagra: pérdidas **−18 %** · **1,8 hm³** ahorrados · gemelos digitales + IA · **Premio Retina 2026** · "sin IA = perder ese agua". *(Ahora Granada 18/09/26)*
 
-**Reservas:** NO2 3ª capital · CityBrain Méndez Núñez (estado no confirmado) | Emasagra ecofactoría **7 M€** IA.
+**Reservas:** CARRERA: ~**6 M€** (iQuantum **2,62** · Granada Smart **1,99** · CityBrain **>1,3**) · **AESIA → A Coruña** (2022) · final 2031 **dic 2026** | NO2 3ª capital · CityBrain (estado no confirmado).
 
 **IMPRESCINDIBLES:**
 1. "Le va bien sin IA" → pasado ≠ futuro · Alhambra 99 %.
@@ -45,8 +46,8 @@ Smart city (UIT Y.4900) = TIC **"y otros medios"** → vida, servicios, competit
 4. "Primero lo básico" → ya hecho · superávit **25 M€** → momento de invertir.
 5. "Vigilancia / privacidad" → datos agregados · AI Act prohíbe abusos · garantías.
 
-**Cierre:** la historia no crece · 99 % · el Ayuntamiento eligió IA · seguir en la carrera.
+**Cierre:** la historia no crece · 99 % · el Ayuntamiento eligió IA · −18 % agua · seguir en la carrera.
 
 ---
-**Nunca:** "la IA no sirve" · "la IA lo resuelve todo" · "iQuantum ha fracasado" · cifra del 18 % de Emasagra.
+**Nunca:** "la IA no sirve" · "la IA lo resuelve todo" · "iQuantum ha fracasado" · "iQuantum está abierto".
 **Frases puente:** "Estoy de acuerdo en parte…" · "La pregunta no es si es útil, sino si es imprescindible." · "Como ha dicho mi compañero/a…"

@@ -50,7 +50,8 @@ Fecha de consulta de todas: **05/10/2026**, salvo indicación.
 | E9 | Syrsa, 14/08/2026 | https://www.syrsa.com/noticias/zbe-de-granada-que-coches-pueden-circular | ZBE: sanciones desde 01/10/2025; cámaras de reconocimiento de matrícula + DGT; 24/7 | Abierta |
 | E10 | COPE, 22/07/2026 | https://www.cope.es/emisoras/andalucia/granada-provincia/granada/noticias/granada-transforma-ciclo-agua-ecofactoria-inteligente-inversion-7-millones-20260722_3408835.html | Emasagra: ecofactoría 7 M€ (72,25 % FEDER), gemelo digital + IA, error de predicción energética < 10 % | Abierta |
 | E11 | Ahora Granada, 29/08/2024 | https://www.ahoragranada.com/noticias/granada-incorpora-la-inteligencia-artificial-al-mantenimiento-de-imbornales/ | IA en mantenimiento de >40.000 imbornales (Emasagra) | Abierta |
-| E12 | Teleprensa, 18/09/2026 (premio Retina) | https://www.teleprensa.com/andalucia/granada/emasagra-premio-retina-2026-modelo-innovacion-sostenibilidad-descarbonizacion-agua/202609181032312510708.html | "−18 % pérdidas de agua, 1,8 hm³" | **SIN VERIFICAR** (403) |
+| E12 | Ahora Granada, 18/09/2026 (premio Retina) | https://www.ahoragranada.com/noticias/emasagra-premio-retina-2026-por-su-modelo-de-innovacion-sostenibilidad-y-descarbonizacion-del-agua/ | "Emasagra ha logrado ahorrar 1,8 hectómetros cúbicos de agua mediante la reducción de pérdidas en red en más de un 18%" con gemelos digitales, IA y sensores; centro Hubgrade | Abierta — **verificado en ronda 3** (antes SIN VERIFICAR; Teleprensa daba 403). No dice en qué periodo se logró |
+| E13 | Ahora Granada, 23/08/2026 | https://www.ahoragranada.com/noticias/granada-26-millones-impulsar-el-centro-iquantum-y-reforzar-su-ecosistema-tecnologico/ | iQuantum: subvención de 2,6 M€; "una de las grandes apuestas"; no dice si está abierto | Abierta (ronda 3) |
 
 ## Hechos que me diste y qué encontré
 
@@ -62,5 +63,5 @@ Fecha de consulta de todas: **05/10/2026**, salvo indicación.
 | Plan IA, Pleno 22/03/2024, "primera ciudad" | 🟡 Solo resumen de granada.org (G6). Prensa confirma el plan pero no abrí una que dé la fecha. |
 | 5G CityBrain >1,3 M€, Méndez Núñez | ✅ Confirmado (G8, G9). **Estado actual no confirmado**: última noticia abierta nov. 2024. |
 | Granada Smart 1.989.854 €, julio 2026, 2031 | ✅ Confirmado (G10, G11). |
-| iQuantum prometido 1er sem. 2025; 1ª piedra 29/01/2026 | ✅ Confirmado (G12, G14). Fecha de piedra: 29/01 (Ahora Granada) vs 30/01 (El Debate). **Estado a 05/10/2026: no encontré apertura**; última noticia 15/09/2026 (G16). |
+| iQuantum prometido 1er sem. 2025; 1ª piedra 29/01/2026 | ✅ Confirmado (G12, G14). Fecha de piedra: 29/01 (Ahora Granada) vs 30/01 (El Debate). **Estado a 05/10/2026: no encontré apertura de la sede** (re-comprobado en ronda 3; última noticia 15/09/2026, G16). Ojo: una noticia dice que iQuantum "inició su andadura" con una jornada en noviembre (2024), sin sede física; di "la sede aún no está abierta, que yo sepa". |
 | Granada perdió AESIA frente a A Coruña | ✅ Confirmado (G17): 05/12/2022; Supremo desestimó recurso (noticia 18/12/2023). |

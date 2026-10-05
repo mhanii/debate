@@ -37,12 +37,13 @@ Los ataques descartados (y por qué) están en `log.md`.
 - **EN:** "They say without municipal AI the talent leaves. But UGR became Spain's #1 in AI before the council had any; so talent is Granada's strength, with or without AI in city services."
 - **Apoyo:** COPE 16/09/2026 (Shanghái 2026, IA 51-75). Debilidad: no tengo fecha de cuándo llegó al nº 1 — no la digas.
 
-### A5 · IMPRESCINDIBLE — Definición: "Cualquier software moderno ya es IA"
-- **Dirán:** "Hoy todo lleva IA: el móvil, las cámaras, el semáforo. Una ciudad sin IA no existe."
-- **Fallo:** supuesto oculto (definición interesada).
-- **ES:** "Dicen que todo software es IA, pero la definición europea excluye los sistemas que solo siguen reglas humanas y la estadística básica. Por tanto, una ciudad sí puede funcionar sin IA, y ellos estiran la palabra."
-- **EN:** "They say all software is AI. But the EU definition excludes rule-following systems and basic statistics; so a city can run without AI, and they're stretching the word."
-- **Apoyo:** Reglamento (UE) 2024/1689, considerando 12; directrices de la Comisión, 06/02/2025.
+### A5 · IMPRESCINDIBLE — "La IA ya ahorra agua en Granada: un 18 % menos de pérdidas" *(subido en ronda 3)*
+- **Dirán:** "Emasagra redujo pérdidas más de un 18 % con IA. Sin IA, Granada sería menos eficiente."
+- **Fallo:** cierto pero superado.
+- **ES:** "Dicen que la IA ahorró agua, y es una gran noticia, pero eso no decide si turistas y empresas eligen Granada. Por tanto, la IA mejora servicios, pero no es lo que hace competir a la ciudad."
+- **EN:** "They say AI saved water, and that's great news, but it doesn't decide whether tourists and firms choose Granada. So AI improves services, but it's not what makes the city compete."
+- **Apoyo:** Ahora Granada 18/09/2026 (−18 %, 1,8 hm³). *No niegues el dato: es real. Concede y redirige a "útil ≠ imprescindible".*
+- **Si insisten** ("entonces admiten que sin IA sería peor"): ES: "Un poco peor en el agua, sí. Pero seguiría siendo Granada, y seguiría compitiendo." / EN: "A bit worse on water, yes. But it would still be Granada, and still competing."
 
 ### A6 · POR SI ACASO — "Granada ya perdió la agencia de IA; sin IA perderá más"
 - **Fallo:** se puede girar.
@@ -87,11 +88,12 @@ Los ataques descartados (y por qué) están en `log.md`.
 - **EN:** "They say without AI data is useless. But a dashboard with alerts and thresholds already lets you act, and that's not AI under EU rules; so useful data first, AI later if it pays."
 - **Apoyo:** lógica + directrices 06/02/2025.
 
-### A13 · POR SI ACASO — "Emasagra ya usa IA en el agua; quitarla es retroceder"
-- **Fallo:** cierto pero superado (no defendemos quitarla).
-- **ES:** "Dicen que quitar la IA del agua sería retroceder, pero nadie propone quitarla; la pregunta es si es imprescindible. Por tanto, celebrar a Emasagra no responde a la moción."
-- **EN:** "They say removing AI from water would be a step back. But nobody proposes removing it; the question is whether it's indispensable; so praising Emasagra doesn't answer the motion."
-- **Apoyo:** COPE 22/07/2026 (ecofactoría 7 M€).
+### A13 · POR SI ACASO — Definición: "Cualquier software moderno ya es IA"
+- **Dirán:** "Hoy todo lleva IA: el móvil, las cámaras, el semáforo. Una ciudad sin IA no existe."
+- **Fallo:** supuesto oculto (definición interesada).
+- **ES:** "Dicen que todo software es IA, pero la definición europea excluye los sistemas que solo siguen reglas humanas y la estadística básica. Por tanto, una ciudad sí puede funcionar sin IA, y ellos estiran la palabra."
+- **EN:** "They say all software is AI. But the EU definition excludes rule-following systems and basic statistics; so a city can run without AI, and they're stretching the word."
+- **Apoyo:** Reglamento (UE) 2024/1689, considerando 12; directrices de la Comisión, 06/02/2025.
 
 ### A14 · POR SI ACASO — "El turismo de masas necesita gestión en tiempo real"
 - **Fallo:** cierto pero superado.
@@ -212,11 +214,12 @@ Los ataques descartados (y por qué) están en `log.md`.
 | A-3 Granada compite mientras iQuantum se retrasa | A favor | **B2** + concesión de En contra + **B1** (pasado ≠ próximos años). |
 | C-1 Alhambra llena → repartir con IA | En contra | **A14** (la Alhambra ya se gestiona con reglas) + respuesta de A-2. |
 | C-2 UGR nº 1 en IA: úsalo o piérdelo | En contra | **A4** (el talento llegó sin IA municipal). |
-| C-3 Competencia relativa + dinero + AESIA | En contra | **A3** (la IA se compra, la Alhambra no) + **A6** (AESIA) + **A11** (2031). |
+| C-3 Emasagra: −18 % pérdidas de agua con IA *(ronda 3)* | En contra | **A5** (útil ≠ imprescindible; el agua no decide dónde van turistas y empresas). |
+| Reserva En contra: carrera + 6 M€ + AESIA | En contra | **A3** + **A6** + **A11** + respuesta extra abajo (6 M€ vs 25,56 M€). |
 
 ### Respuestas extra que faltaban (añadidas tras el cruce)
 
-- **Contra C-3 "unos 6 millones movilizados" (si estoy A FAVOR):**
+- **Contra la Reserva 1 de En contra, "unos 6 millones movilizados" (si estoy A FAVOR):**
   - ES: "Dicen que la IA trae millones, pero son unos 6 millones repartidos en varios años; el superávit de 2025 fueron 25,56. Por tanto, la IA no es lo que sostiene las cuentas de Granada."
   - EN: "They say AI brings millions. But it's about €6M over several years; the 2025 surplus alone was €25.56M; so AI is not what holds up Granada's finances."
   - Fuentes: El Independiente de Granada 15/09/2026; COPE 28/09/2026.
